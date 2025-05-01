@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders.config;
+package com.harini.customer_orders.config;
 
 
 import jakarta.servlet.FilterChain;
