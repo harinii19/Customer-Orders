@@ -1,6 +1,6 @@
 
 
-# Customer Orders Using Spring Boot
+# Customer Orders using SpringBoot
 
 This is a Spring Boot application for managing customer orders. It provides functionalities to create, read, update, and delete customer orders, and stores data in a local SQLite database.
 
