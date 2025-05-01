@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders.model;
+package com.harini.customer_orders.model;
 public class RegisterRequest {
     private String username;
     private String password;

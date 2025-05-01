@@ -1,6 +1,6 @@
-package com.jothisri.customer_orders.config;
+package com.harini.customer_orders.config;
 
-import com.jothisri.customer_orders.service.UserService;
+import com.harini.customer_orders.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

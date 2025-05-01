@@ -1,7 +1,7 @@
-package com.jothisri.customer_orders.controller;
+package com.harini.customer_orders.controller;
 
-import com.jothisri.customer_orders.model.Order;
-import com.jothisri.customer_orders.service.OrderService;
+import com.harini.customer_orders.model.Order;
+import com.harini.customer_orders.service.OrderService;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

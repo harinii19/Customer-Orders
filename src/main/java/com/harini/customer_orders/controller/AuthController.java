@@ -1,10 +1,10 @@
-package com.jothisri.customer_orders.controller;
+package com.harini.customer_orders.controller;
 
-import com.jothisri.customer_orders.config.JwtUtil;
-import com.jothisri.customer_orders.model.AuthRequest;
-import com.jothisri.customer_orders.model.AuthResponse;
-import com.jothisri.customer_orders.model.User;
-import com.jothisri.customer_orders.repository.UserRepository;
+import com.harini.customer_orders.config.JwtUtil;
+import com.harini.customer_orders.model.AuthRequest;
+import com.harini.customer_orders.model.AuthResponse;
+import com.harini.customer_orders.model.User;
+import com.harini.customer_orders.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

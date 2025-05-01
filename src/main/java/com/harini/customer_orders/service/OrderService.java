@@ -1,7 +1,7 @@
-package com.jothisri.customer_orders.service;
+package com.harini.customer_orders.service;
 
-import com.jothisri.customer_orders.model.Order;
-import com.jothisri.customer_orders.repository.OrderRepository;
+import com.harini.customer_orders.model.Order;
+import com.harini.customer_orders.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

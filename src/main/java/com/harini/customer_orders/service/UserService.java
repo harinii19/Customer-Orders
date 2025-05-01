@@ -1,7 +1,7 @@
-package com.jothisri.customer_orders.service;
+package com.harini.customer_orders.service;
 
-import com.jothisri.customer_orders.model.User;
-import com.jothisri.customer_orders.repository.UserRepository;
+import com.harini.customer_orders.model.User;
+import com.harini.customer_orders.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

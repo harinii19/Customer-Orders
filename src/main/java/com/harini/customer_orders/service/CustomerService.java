@@ -1,7 +1,7 @@
-package com.jothisri.customer_orders.service;
+package com.harini.customer_orders.service;
 
-import com.jothisri.customer_orders.model.Customer;
-import com.jothisri.customer_orders.repository.CustomerRepository;
+import com.harini.customer_orders.model.Customer;
+import com.harini.customer_orders.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.jothisri.customer_orders.repository;
+package com.harini.customer_orders.repository;
 
-import com.jothisri.customer_orders.model.User;
+import com.harini.customer_orders.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

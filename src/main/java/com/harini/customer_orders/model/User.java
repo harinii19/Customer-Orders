@@ -1,6 +1,6 @@
-package com.jothisri.customer_orders.model;
+package com.harini.customer_orders.model;
 
-import com.jothisri.customer_orders.enums.Role;
+import com.harini.customer_orders.enums.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

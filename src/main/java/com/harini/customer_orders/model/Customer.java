@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders.model;
+package com.harini.customer_orders.model;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;

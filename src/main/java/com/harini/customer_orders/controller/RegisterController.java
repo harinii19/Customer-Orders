@@ -1,9 +1,9 @@
-package com.jothisri.customer_orders.controller;
+package com.harini.customer_orders.controller;
 
-import com.jothisri.customer_orders.enums.Role;
-import com.jothisri.customer_orders.model.RegisterRequest;
-import com.jothisri.customer_orders.model.User;
-import com.jothisri.customer_orders.repository.UserRepository;
+import com.harini.customer_orders.enums.Role;
+import com.harini.customer_orders.model.RegisterRequest;
+import com.harini.customer_orders.model.User;
+import com.harini.customer_orders.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.crypto.password.PasswordEncoder;

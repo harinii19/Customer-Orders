@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders.enums;
+package com.harini.customer_orders.enums;
 
 
 public enum Role {
