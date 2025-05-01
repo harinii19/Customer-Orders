@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders;
+package com.harini.customer_orders;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
